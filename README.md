@@ -14,4 +14,5 @@ Team Details:
 Keerti
 Priyanka
 Sylvie 
+Lalit
 
